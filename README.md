@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello World, I'm Diva Juni Artha (Diva) 😁  
 
-<!--
-**divajuni0406/divajuni0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused on **front-end web development**, and I’m actively improving my English too for global collaboration.
 
-Here are some ideas to get you started:
+### Some facts about me
+- 🌐 Front-end web developer using **React & Next.js**
+- 📱 Love learning new things
+- 💪 Disciplined gym training — same mindset I bring to learning and shipping products  
+- 🧠 Strong at turning designs into clean, scalable components  
+- 🔧 Daily tools: Next.js, TypeScript, Tailwind, Redux Toolkit  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies I use daily
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
