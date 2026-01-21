@@ -3,7 +3,7 @@ Hello World, I'm Diva Juni Artha (Diva) 😁
 I'm a software engineer focused on **front-end web development**, and I’m actively improving my English too for global collaboration.
 
 ### Some facts about me
-- 🌐 Front-end web developer using **React & Next.js**
+- 🌐 Front-end web developer using **Next.js and Nuxt**
 - 📱 Love learning new things
 - 💪 Disciplined gym training — same mindset I bring to learning and shipping products  
 - 🧠 Strong at turning designs into clean, scalable components  
